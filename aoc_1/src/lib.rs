@@ -56,7 +56,7 @@ impl Elf {
 mod tests {
     use super::*;
 
-    const input: &str = r"
+    const INPUT: &str = r"
 10
 20
 30
